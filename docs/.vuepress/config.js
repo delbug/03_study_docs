@@ -6,8 +6,8 @@ moment.locale('zh-cn')
 module.exports = {
     title: '酱紫的世界', // 设置网站标题
     // dest: './dist', // 设置输出目录
-    base: '/web_sum/', // 设置站点根路径 (和github命令的名称要一样)
-    repo: 'https://github.com/delbug/web_sum.git', // 添加 github 链接
+    base: '/03_study_docs/', // 设置站点根路径 (和github命令的名称要一样)
+    repo: 'https://github.com/delbug/03_study_docs.git', // 添加 github 链接
     head: [
         ['link', { rel: 'icon', href: '/assets/img/logo.png' }],
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }] //移动端搜索优化

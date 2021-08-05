@@ -22,8 +22,9 @@ git commit -m 'deploy'
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
-git push -f git@github.com:delbug/web_sum.git master:gh-pages 
+git push -f git@github.com:delbug/03_study_docs.git master:gh-pages 
 
+# git remote add origin https://github.com/delbug/03_study_docs.git
 # 把 "deploy": "bash deploy.sh" 放入 package.json里面后，在根目录执行 yarn deploy ，把代码部署到GitHub上
 
 cd -

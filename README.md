@@ -1,6 +1,6 @@
 # vuePress
 
-首页演示 :  [演示地址](https://ipv7.gitee.io/web_sum)
+首页演示 :  [演示地址](https://ipv7.gitee.io/03_study_docs)
 
 ![index](./index1.png)
 
@@ -11,7 +11,7 @@
 config.js
 
 ```BASH
-base: '/web_sum/', // 设置站点根路径 (最好和github的仓库名称要一样)
+base: '/03_study_docs/', // 设置站点根路径 (最好和github的仓库名称要一样)
 ```
 
 
